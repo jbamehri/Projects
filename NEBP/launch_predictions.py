@@ -18,7 +18,7 @@ from selenium.webdriver.common.by import By
 
 # Discord bot token and channel ID
 DISCORD_TOKEN = ""
-CHANNEL_ID = 1151543485887954974
+CHANNEL_ID = 1344886213705728060
 
 # Base URL for SondeHub Predictor
 BASE_URL = "https://predict.sondehub.org/"
@@ -41,6 +41,7 @@ def get_prediction_times():
     start_time = datetime.now()
     end_time = start_time + timedelta(days=7)
     return start_time.strftime('%B %d, %Y %H:%M'), end_time.strftime('%B %d, %Y %H:%M')
+
 
 def get_prediction_url(lat, lon):
     """Constructs the SondeHub prediction URL."""
