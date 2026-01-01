@@ -1,70 +1,58 @@
 RESUME 
 
-JOUD BAMEHRIZ  
+Joud Bamehriz 
 Canton, MI | Joahba@gmail.com | 619-317-9132 | www.linkedin.com/in/joud-bamehriz  
-EDUCATION:  
-Bachelor of Science in Engineering Physics, Minor in Mathematics   4/2025  
-Eastern Michigan University  
-HONORS & DISTINCTIONS:                             
-Ypsilanti, MI  
-Sigma Pi Sigma | American Honor Society for Physics and Astronomy 2025  
-Harry L. Smith Scholarship | Eastern Michigan University  2024  
-Frank & Christine Roth Memorial Award | Eastern Michigan University   
-Participated in Putnam Math Competition   2023  
-Dean’s List | Eastern Michigan University  
-RELEVANT EXPERIENCE:  
-2022, 2023  
-Nationwide Eclipse Ballooning Project | Forbush Decrease Data Analysis 01/2025-Present  
-Engineering Team Member - Conduct high-altitude balloon launches for a NASA-sponsored project studying the Forbush 
-decrease. - Ensure FAA compliance by solving payload integration and regulatory challenges. - Gain hands-on technical experience by designing, 3D printing, and assembling payload enclosures 
-and structural components. - Optimize payload performance and safety through iterative testing and design improvements. 
-Eastern Michigan University | Developing a Statistical Model to Predict Density Changes Resulting 
-from Solar Flares                                                                                                          04/2024-Present  
-Student Collaborator - Collaborating with two Eastern Michigan University professors to develop a statistical model 
-predicting density changes in Mars’s upper atmosphere due to solar flares. - Applying expertise in mathematical sciences, computer science, and atmospheric modeling to 
-analyze solar-driven variations. - Utilizing Python for data analysis, model development, and visualization to enhance predictive 
-accuracy. - Integrating real-world datasets and computational techniques to improve understanding of 
-atmospheric dynamics on Mars. 
-Eastern Michigan University | Improving the Chemistry Scheme of MGITM                     05/2023-Present  
-Research Assistant - Conducting a comparative study to enhance the Mars Global Ionosphere-Thermosphere Model 
-(MGITM) for improved upper atmospheric simulations. - Applying knowledge of atmospheric chemistry and computer science to modify the model’s code, 
-refining its accuracy. -  Utilizing programming and data analysis techniques to achieve more realistic simulations, validated 
-against MAVEN spacecraft observations. 
- 
-JOUD BAMEHRIZ | RESUME  
-PAGE 2   
-PROFESSIONAL EXPERIENCE:  
-Eastern Michigan University | The Writing Center  
-Writing Peer Consultant   - - 
-Completed certification training to become a peer writing consultant. 
-Ypsilanti, MI  
-10/2022-Present  
-Assisting students with various writing formats, including lab reports, research papers, and speeches. - - 
-Developing strong communication and writing skills through one-on-one tutoring sessions. 
-Enhancing students' academic success by providing feedback on structure, clarity, and argumentation. 
-SKILLS:   
-Language: Fluent in Arabic, English | Conversational Turkish  
-Technical: AutoCAD | Fusion 360 | Inkscape | 2d/3d Design | Laser Cutting | 3d Printing  
-Research: Writing | Analysis | Data Gathering | Qualitative and Quantitative Methods | Peer Review 
-Coding:  
-Python | Linux-based systems | Fortran | C++  
-LEADERSHIP EXPERIENCE:  
-The National Society of Leadership and Success | Member    
-05/2022-Present  
-• Selected by campus administration to participate among top students in a leadership program.  
-• Trained in leadership and success skills via a reflective and interactive training session, resulting 
-in improved leadership skills, time management, and goal setting.  
-RESEARCH PROJECT EXPERIENCE:   
-EMU Undergraduate Symposium | Poster Presentation  
-03/2024  
-• Presented, Enhancing a Global Climate Model of the Upper Atmosphere of Mars - utilized the 
-climate model MGITM and proved scientific agreement between the simulations and MAVEN’s 
-data.  
-Mathematical Modeling | Research Project  
-03/2024  
-• Researched and wrote, Predicting Density of Oxygen Ions Using MAVEN’s Data, applying 
-multiple regression to develop the model.  
-Mathematical Modeling | Research project  
-02/2024  
-• Worked on a short research paper, Simulating a Self-Landing Rover, in which I wrote code for a 
-model that adjusts the path of a rover according to external changes.  
+EDUCATION: 
+Master of Science in Aerospace Engineering | University of Michigan – Ann Arbor                         
+Expected May 2027 
+Bachelor of Science in Engineering Physics, Minor in Mathematics | Eastern Michigan University | 3.96 GPA            April 2025 
+SKILLS: 
+▪ Technical: CAD | 3d Design & Print | Inkscape | Fluid Dynamics | CAE Simulations | Microsoft Office | MATLAB | STK 
+▪ Research & Analysis: Writing | Data Gathering | Peer Review |Thermal Systems Analysis | Heat Transfer Modeling 
+▪ Coding Languages: Python | Linux-based systems | Fortran | C++  
+RELEVANT WORK EXPERIENCE: 
+Aerospace Engineering Instructor | Girls in Engineering | Engineering Society of Detroit         
+10/2025–Present 
+▪ Design and implement original curriculum and hands-on projects introducing students to aerospace engineering concepts. 
+▪ Develop assessments to measure student learning outcomes and compile a comprehensive final program report. 
+▪ Guide students through design challenges to apply engineering principles in creating/improving aircraft and spacecraft models. 
+Research Assistant | Improving the Chemistry Scheme of MGITM                     
+05/2023-04/2025 
+https://github.com/dpawlows/MGITM/tree/newchemistry3             
+Python, Fortran, NASA’s HEC 
+▪ Enhance a Martian Global Model (MGITM) by refining its chemistry scheme to improve upper atmospheric simulations. 
+▪ Apply thermodynamics, fluid mechanics, and heat transfer principles to analyze energy exchanges in the atmosphere. 
+▪ Improve the CFD model by incorporating chemical heating and refining the temperature estimates by 15%. 
+RESEARCH EXPERIENCE:  
+Cooling and Compression Team Member | BLiSS/NASA X-Hab 2026 CRYO Project | University of Michigan   
+08/2025–Present 
+▪ Collaborate within a multidisciplinary team to design and prototype a passive cryogenic boil-off gas recondensation system. 
+▪ Conduct benchtop experiments to optimize heat exchanger performance and maximize spacecraft efficiency. 
+▪ Perform trade studies, requirements definition, and risk analysis to inform system integration and material selection for spacecraft 
+cryogenic storage. 
+Engineering Team Member | Nationwide Eclipse Ballooning Project                       
+https://github.com/Joudbamehriz/Projects/tree/main/3d_designs                 
+▪ Conduct 4 high-altitude balloon launches for a NASA-sponsored project studying the Forbush decrease. 
+▪ Build and calibrate a scintillator-based muon detector, involving electronics assembly and signal processing. 
+01/2025-04/2025 
+Electrical engineering, Mechanical engineering, CAD 
+▪ Optimize payload performance and safety through iterative performance analysis, validation, and continuous improvement. 
+▪ Develop 2 computer programs to predict flight trajectory and send alerts of high-energy geomagnetic storms.  
+Author and Researcher | Incident angle and power output relation of a monocrystalline solar cell                 
+▪ Design and implement an Arduino-based control system to adjust the solar cell's orientation. 
+11/2024-01/2025 
+▪ Develop and apply corrective actions to an electronic circuit to modify resistance using a digital potentiometer for load control. 
+▪ Work with automated systems for data collection and varying the loads to calculate power output. 
+▪ Analyze power output variations and identify an optimal incident angle range (0°–40°). 
+PROJECT EXPERIENCE:  
+Training an AI Model to Recognize Updrafts for Automated Gliding with STR and DARPA           12/2025-Present 
+Developing a Smart Space Glove Using Integrated Sensors and Embedded Control Systems           10/2025-Present         
+Building a Statistical Model to Predict Density Changes from Solar Flares                      04/2024-03/2025                                        
+Predicting Density of Oxygen Ions Using MAVEN Data                                              03/2024        
+Simulating a Self-Landing Rover Using Predictive Modeling                                        02/2024 
+HONORS & DISTINCTIONS:  
+Gupta Values Scholarship | Gupta Family Foundation                   2025-2026 
+Sigma Pi Sigma | American Honor Society for Physics and Astronomy   2025                                     
+Women of Excellence Award | Eastern Michigan University             2025                    
+Harry L. Smith Scholarship | Eastern Michigan University             2024                   
+Dean’s List | Eastern Michigan University                           2022-2025                     
